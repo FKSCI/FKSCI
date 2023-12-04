@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FKSCI from somewhere in Asia 
-- 👀 I’m interested in Software Engineering, Data Scientist
+- 👀 I’m interested in Software Engineering, Data Scientist, full stack developer
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
